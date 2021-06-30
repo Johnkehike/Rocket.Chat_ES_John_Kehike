@@ -1,0 +1,15 @@
+Response:
+{
+    "room": {
+        "_id": "GENERAL",
+        "ts": "2021-06-30T08:15:32.552Z",
+        "t": "c",
+        "name": "general",
+        "usernames": [],
+        "msgs": 3,
+        "usersCount": 3,
+        "default": true,
+        "_updatedAt": "2021-06-30T19:20:41.147Z"
+    },
+    "success": true
+}
