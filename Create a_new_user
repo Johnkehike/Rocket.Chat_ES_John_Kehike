@@ -1,5 +1,3 @@
-API Request sent: http://20.62.250.66:3000/api/v1/users.create
-
 Response:
 {
     "user": {
