@@ -1,0 +1,29 @@
+API Request sent: http://20.62.250.66:3000/api/v1/users.create
+
+Response:
+{
+    "user": {
+        "_id": "k2z2o7LALmRREsnM5",
+        "createdAt": "2021-06-30T19:20:41.125Z",
+        "username": "jones",
+        "emails": [
+            {
+                "address": "jones@jokehi.ml",
+                "verified": false
+            }
+        ],
+        "type": "user",
+        "status": "offline",
+        "active": true,
+        "_updatedAt": "2021-06-30T19:20:41.222Z",
+        "__rooms": [
+            "GENERAL"
+        ],
+        "roles": [
+            "user"
+        ],
+        "name": "Susan",
+        "settings": {}
+    },
+    "success": true
+}
